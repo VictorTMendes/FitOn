@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 
 import Logo from './img/fiton-logo.png'
-import ImagemPrincipal from './img/frutas.png'
+import ImagemPrincipal from './img/nutricionista.png'
 
 function App() {
 

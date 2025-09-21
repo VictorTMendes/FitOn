@@ -4,15 +4,15 @@
 }
 
 .container{
-    background-color: rgb(34, 206, 0);
+    background-color: rgb(242, 242, 242);
     padding: 40px 0;
 }
 
 .main-container{
     margin: 0px 200px;
-    background-color: azure;
+    background-color: rgb(255, 255, 255);
     border-radius: 40px;
-    padding: 20px 60px;
+    padding: 20px 0px
 }
 
 .header{
@@ -23,11 +23,13 @@
 
 .logo{
     width: 200px;
+    padding: 0px 60px;
 }
 
 .info-principal{
     display: flex;
     align-items: center;
+    padding: 0px 60px;
 }
 
 .info{
